@@ -1,0 +1,23 @@
+---
+title: "Work Log"
+author: "N. Harms"
+format: html
+editor: visual
+---
+
+## Wednesday, June 4th
+
+-   Collab meeting
+
+## Thursday, June 5th
+
+-   Started training- Intro-part of module 2
+
+## Saturday, June 7th
+
+-   Finished module 2 of training
+
+## Monday, June 9th
+
+-   Finish training?
+-   Email Susan for next steps
