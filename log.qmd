@@ -5,19 +5,19 @@ format: html
 editor: visual
 ---
 
-## Wednesday, June 4th
+## 6/4
 
 -   Collab meeting
 
-## Thursday, June 5th
+## 6/5
 
 -   Started training- Intro-part of module 2
 
-## Saturday, June 7th
+## 6/7
 
 -   Finished module 2 of training
 
-## Monday, June 9th
+## 6/9
 
 -   Finish training?
 -   Email Susan for next steps
