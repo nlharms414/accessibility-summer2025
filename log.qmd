@@ -19,5 +19,9 @@ editor: visual
 
 ## 6/9
 
--   Finish training?
--   Email Susan for next steps
+-   Worked on training
+
+## 6/10
+
+-   Finish training
+-   Email Susan
