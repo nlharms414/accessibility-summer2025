@@ -1,0 +1,41 @@
+---
+title: "Work Log"
+author: "N. Harms"
+format: html
+editor: visual
+---
+
+## 6/4
+
+-   Collab meeting
+
+## 6/5
+
+-   Started training- Intro-part of module 2
+
+## 6/7
+
+-   Finished module 2 of training
+
+## 6/9
+
+-   Worked on training
+
+## 6/10
+
+-   Finish training
+-   Email Susan
+
+## 6/11 
+
+-   Meeting with Susan & Toma at 12
+-   Group meeting at 2
+-   Write up in README file
+
+
+
+
+
+
+
+
