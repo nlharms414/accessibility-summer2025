@@ -26,16 +26,13 @@ editor: visual
 -   Finish training
 -   Email Susan
 
-## 6/11 
+## 6/11
 
 -   Meeting with Susan & Toma at 12
 -   Group meeting at 2
 -   Write up in README file
 
+## This/next week...
 
-
-
-
-
-
-
+-   Accessibility check for 850 book
+-   Read up on Quarto: [Mine-Cetinkaya](https://mine-cr.com/about/)
