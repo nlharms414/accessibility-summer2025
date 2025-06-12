@@ -1,5 +1,5 @@
 ---
-title: "Work Log"
+title: "Daily Journal"
 author: "N. Harms"
 format: html
 editor: visual
@@ -23,16 +23,17 @@ editor: visual
 
 ## 6/10
 
--   Finish training
--   Email Susan
+-   Finished training
 
 ## 6/11
 
 -   Meeting with Susan & Toma at 12
 -   Group meeting at 2
--   Write up in README file
+-   
 
-## This/next week...
+## To-do...
 
+-   Project description/write-up in README file
 -   Accessibility check for 850 book
 -   Read up on Quarto: [Mine-Cetinkaya](https://mine-cr.com/about/)
+-   Get in touch with Reka
