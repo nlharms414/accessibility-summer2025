@@ -29,11 +29,19 @@ editor: visual
 
 -   Meeting with Susan & Toma at 12
 -   Group meeting at 2
--   
+
+## 6/12
+
+-   Worked on write-up
+
+## 6/17
+
+-   Finish up write-up
+-   Created a list of WCAG 2.1 AA guidelines (to have a concise easy-access list)
 
 ## To-do...
 
--   Project description/write-up in README file
 -   Accessibility check for 850 book
+    -   Go through WCAG 2.1 Level AA standards
 -   Read up on Quarto: [Mine-Cetinkaya](https://mine-cr.com/about/)
 -   Get in touch with Reka
