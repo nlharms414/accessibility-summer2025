@@ -1,7 +1,7 @@
 ---
 title: "Daily Journal"
 author: "N. Harms"
-format: html
+format: pdf
 editor: visual
 ---
 
@@ -43,6 +43,7 @@ editor: visual
 
 -   Meeting at 2
 -   Quarto/Pandoc research
+-   Ask Susan about HTML/Quarto/Pandoc/all the things materials
 
 ## To-do...
 
@@ -50,3 +51,8 @@ editor: visual
     -   Go through WCAG 2.1 Level AA standards (markdown file created)
 -   Read up on Quarto: [Mine-Cetinkaya](https://mine-cr.com/about/)
 -   Get in touch with Reka
+
+## Other thoughts...
+
+-   Perhaps create a website with finished materials?
+    -   Like slide templates

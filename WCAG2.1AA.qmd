@@ -1,10 +1,10 @@
 ---
 title: "WCAG 2.1 AA Standards"
-format: html
+format: pdf
 editor: visual
 ---
 
-Includes **2.1 level AA** guidelines [only]{.underline}. These are the guidelines that need to be met for all content created as part of this project. 
+Includes **2.1 level AA guidelines only.** These are the guidelines that need to be met for all content created as part of this project.
 
 # Principle 1 - Perceivable
 
@@ -85,7 +85,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 
 # Principle 3 - Understandable
 
-Information and the operation of the user interface mst be understandable.
+Information and the operation of the user interface must be understandable.
 
 ## Readable - Guideline 3.1
 
