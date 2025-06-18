@@ -4,13 +4,13 @@ format: html
 editor: visual
 ---
 
-Includes **level AA** guidelines [only]{.underline}.
+Includes **2.1 level AA** guidelines [only]{.underline}. These are the guidelines that need to be met for all content created as part of this project. 
 
 # Principle 1 - Perceivable
 
 Information and user interface components must be presentable to useres in ways they can perceive.
 
-## Time-based Media - Guideline 1.2
+## Time-Based Media - Guideline 1.2
 
 Provide alternatives for time-based media.
 

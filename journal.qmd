@@ -37,11 +37,16 @@ editor: visual
 ## 6/17
 
 -   Finish up write-up
--   Created a list of WCAG 2.1 AA guidelines (to have a concise easy-access list)
+-   Created a markdown file of WCAG 2.1 AA guidelines (to have a concise easy-access list)
+
+## 6/18
+
+-   Meeting at 2
+-   Quarto/Pandoc research
 
 ## To-do...
 
 -   Accessibility check for 850 book
-    -   Go through WCAG 2.1 Level AA standards
+    -   Go through WCAG 2.1 Level AA standards (markdown file created)
 -   Read up on Quarto: [Mine-Cetinkaya](https://mine-cr.com/about/)
 -   Get in touch with Reka
