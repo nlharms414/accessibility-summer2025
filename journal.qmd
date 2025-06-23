@@ -45,12 +45,25 @@ editor: visual
 -   Quarto/Pandoc research
 -   Ask Susan about HTML/Quarto/Pandoc/all the things materials
 
+## 6/19
+
+-   Emailed Reka about Help Desk materials
+
+## 6/23
+
+-   Accessibility check on 850 book
+-   Notes (started on Part IV: Advanced Topics):
+    -   Noticed that the keyboard cannot access the tabs (demonstrating how to run things in R, Python, etc.). Not sure if this is necessary, wanted to mention.
+    -   Not accessibility related, but noticed a "nubmers" typo in section 31.3.1 :)
+    -   Could perhaps implement a way to skip over the page navigation if so desired (skip to content)
+    -   Cannot visibly tell when you're on a code chunk to copy it
+
 ## To-do...
 
 -   Accessibility check for 850 book
     -   Go through WCAG 2.1 Level AA standards (markdown file created)
 -   Read up on Quarto: [Mine-Cetinkaya](https://mine-cr.com/about/)
--   Get in touch with Reka
+-   Get in touch with Reka (done)
 -   Read through [Understanding Techniques for WCAG Success Criteria](https://www.w3.org/TR/2014/NOTE-UNDERSTANDING-WCAG20-20140916/understanding-techniques.html#understanding-techniques)
 
 ## Other thoughts...
