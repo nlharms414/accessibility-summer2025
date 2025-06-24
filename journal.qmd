@@ -1,9 +1,25 @@
 ---
 title: "Daily Journal"
 author: "N. Harms"
-format: pdf
+format: 
+  html:
+    code-link: true
 editor: visual
 ---
+
+"code-link" option includes link to code documentation.
+
+## Libraries
+
+```{r}
+library(ggplot2)
+library(ggthemes)
+```
+
+```{r}
+#| eval: false
+scale_color_colorblind()
+```
 
 ## 6/4
 
@@ -56,7 +72,12 @@ editor: visual
     -   Noticed that the keyboard cannot access the tabs (demonstrating how to run things in R, Python, etc.). Not sure if this is necessary, wanted to mention.
     -   Not accessibility related, but noticed a "nubmers" typo in section 31.3.1 :)
     -   Could perhaps implement a way to skip over the page navigation if so desired (skip to content)
-    -   Cannot visibly tell when you're on a code chunk to copy it
+    -   Cannot visibly tell when you're on a code chunk to copy it for some reason
+
+## 6/24
+
+-   fig-alt: adds alt text to figures on output (for accessibility)
+-   scale_color_colorblind() from ggplot
 
 ## To-do...
 
