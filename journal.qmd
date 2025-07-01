@@ -79,12 +79,24 @@ scale_color_colorblind()
 -   fig-alt: adds alt text to figures on output (for accessibility)
 -   scale_color_colorblind() from ggplot
 
+## 6/25
+
+-   Group meeting
+-   Explore quarto slide (revealjs) features
+
+## 6/27
+
+-   Meeting with Reka
+
+## 6/30
+
+-   
+
 ## To-do...
 
 -   Accessibility check for 850 book
     -   Go through WCAG 2.1 Level AA standards (markdown file created)
 -   Read up on Quarto: [Mine-Cetinkaya](https://mine-cr.com/about/)
--   Get in touch with Reka (done)
 -   Read through [Understanding Techniques for WCAG Success Criteria](https://www.w3.org/TR/2014/NOTE-UNDERSTANDING-WCAG20-20140916/understanding-techniques.html#understanding-techniques)
 
 ## Other thoughts...

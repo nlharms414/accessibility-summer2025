@@ -3,25 +3,77 @@ title: "test slides"
 author: "N. Harms"
 format: 
   revealjs:
+    logo: dino.png
     chalkboard: true
+    theme: moon
 editor: visual
 ---
 
-## Quarto
+# Big section
 
 Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
 
+## [Sub section]{style="color: white; background-color: blue; font-family: Sans"} {background-image="cacti.jpg" background-opacity="0.4"}
+
+[Text formats can be changed using]{style="background-color: lime"} [brackets and curly brackets.]{style="font-family: 'Courier New'"} <br> <br> **For multiple attributes inside the same argument (like the header) separate with a semicolon.** <!--# This is how you comment. <br> is used to break paragraphs. -->
+
 ## Bullets
 
-When you click the **Render** button a document will be generated that includes:
+::: incremental
+-   hi
+-   hello
+-   how are you
+:::
 
--   Content authored with markdown
--   Output from executable code
+. . .
+
+What is good. <br> Three dots with spaces acts as a transition. <br> Generally {.XXX} is good practice, although XXX often works
+
+---
+
+Three horizontal lines create a new slide without a header <br><br> Enjoy this pic of my desktop goose <br><br> ![Just a lil guy](hönk.png)
+
+## {background-color="aquamarine"}
+
+This is how you add color to a slide.
+
+-   You can also include a title if you want.
 
 ## Code
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+```{r histogram demo}
+#| code-line-numbers: "|1|3-4"
+#| echo: true
 
-```{r}
-1 + 1
+nums <- c(1,2,6,2,3,5,4,2,3,4,4,1)
+hist(nums,
+     main = "Histogram of Numbers",
+     col = "pink")
 ```
+
+# Big section 2 {background-color="#96BB3C"}
+
+-   Here is the start of a new section
+
+## Scrollable Slide {.scrollable}
+
+-   If
+-   you
+-   have
+-   a
+-   ton
+-   of
+-   info
+-   to
+-   put
+-   on
+-   one
+-   slide,
+-   you
+-   can
+-   make
+-   it
+-   scrollable!
+-   :)
+
+## The end! Thanks for joining :) {.center}
