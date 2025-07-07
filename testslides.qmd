@@ -31,7 +31,7 @@ What is good. <br> Three dots with spaces acts as a transition. <br> Generally {
 
 ---
 
-Three horizontal lines create a new slide without a header <br><br> Enjoy this pic of my desktop goose <br><br> ![Just a lil guy](hönk.png)
+Three horizontal lines create a new slide without a header <br><br> Enjoy this pic of my desktop goose <br><br> ![Just a lil guy](hönk.png){fig-alt="Cartoon goose"}
 
 ## {background-color="aquamarine"}
 

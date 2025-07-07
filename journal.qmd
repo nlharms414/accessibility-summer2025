@@ -90,6 +90,22 @@ scale_color_colorblind()
 
 ## 6/30
 
+-   Played with quarto slide features
+
+## 7/1
+
+-   Worked on quarto test slides
+-   Set up meeting with Susan
+
+## 7/2 
+
+-   Met with Susan about next project steps
+-   Forked Github 850 book repository
+
+## 7/3
+
+-   Typo pull request
+-   IBM extension checking
 -   
 
 ## To-do...
