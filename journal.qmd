@@ -108,12 +108,39 @@ scale_color_colorblind()
 -   IBM extension checking
 -   
 
+## 7/7
+
+-   Test slides
+
+## 7/8 
+
+-   Meeting with Toma
+    -   Went over pull requests
+-   Test slides
+-   Worked with IBM checker
+    -   Not entirely sure how to read changes
+    
+## 7/9
+
+-   Meeting today
+    -   Accessibility checks to the 850 book
+    -   Pull requests and such
+    -   Continued working on slides to test/get familiarized with features
+    -   IBM accessibility checker
+        -   Figuring out how to implement suggested changes via Quarto
+    -   This week/next:
+        -   Work on slide templates for 218
+
 ## To-do...
 
--   Accessibility check for 850 book
-    -   Go through WCAG 2.1 Level AA standards (markdown file created)
--   Read up on Quarto: [Mine-Cetinkaya](https://mine-cr.com/about/)
--   Read through [Understanding Techniques for WCAG Success Criteria](https://www.w3.org/TR/2014/NOTE-UNDERSTANDING-WCAG20-20140916/understanding-techniques.html#understanding-techniques)
+-   Create templates for 218
+-   Learn up on LaTeX in slides
+-   Beamer (pdf/pptx) slide outputs?
+
+## Resources and such
+
+-   [Mine-Cetinkaya](https://mine-cr.com/about/)
+-   [Understanding Techniques for WCAG Success Criteria](https://www.w3.org/TR/2014/NOTE-UNDERSTANDING-WCAG20-20140916/understanding-techniques.html#understanding-techniques)
 
 ## Other thoughts...
 
