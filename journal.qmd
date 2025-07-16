@@ -97,7 +97,7 @@ scale_color_colorblind()
 -   Worked on quarto test slides
 -   Set up meeting with Susan
 
-## 7/2 
+## 7/2
 
 -   Met with Susan about next project steps
 -   Forked Github 850 book repository
@@ -112,14 +112,14 @@ scale_color_colorblind()
 
 -   Test slides
 
-## 7/8 
+## 7/8
 
 -   Meeting with Toma
     -   Went over pull requests
 -   Test slides
 -   Worked with IBM checker
     -   Not entirely sure how to read changes
-    
+
 ## 7/9
 
 -   Meeting today
@@ -130,6 +130,14 @@ scale_color_colorblind()
         -   Figuring out how to implement suggested changes via Quarto
     -   This week/next:
         -   Work on slide templates for 218
+
+## 7/16
+
+-   Meeting today
+    -   Got started on making slides for 218
+    -   Current slides are in revealjs format, but toyed with the idea of creating beamer slides as well? (for people who prefer pdf)
+        -   Could also just print html slides to pdf
+    -   make note of alt text, show in html coding of the page
 
 ## To-do...
 
