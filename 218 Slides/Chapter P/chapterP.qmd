@@ -26,7 +26,7 @@ editor: visual
 
 ::::: columns
 ::: {.column width="35%"}
-<br> ![](Chapter%20P%20Slide%20Images/baby.png){fig-alt="Angry baby"}
+<br> ![](images/baby.png){fig-alt="Angry baby"}
 
 [Link to Helper vs Hinderer Video](https://www.youtube.com/watch?v=HBW5vdhr_PA)
 :::
@@ -223,7 +223,7 @@ How spread out is the distribution?
 
 Dot plot of National Anthem length:
 
-![](Chapter%20P%20Slide%20Images/nadotplot.png){fig-alt="Dot plot of National Anthem length in seconds. Outliers include a dot at 64 seconds and dots at 154 and 156 seconds."}
+![](images/nadotplot.png){fig-alt="Dot plot of National Anthem length in seconds. Outliers include a dot at 64 seconds and dots at 154 and 156 seconds."}
 
 ## National Anthem Example (cont.) {style="font-size: 32px"}
 
@@ -239,7 +239,7 @@ How would you describe the distribution?
 :::
 
 ::: {.column width="60%"}
-![Histogram of song length](Chapter%20P%20Slide%20Images/nahist.png){fig-alt="Histogram of National Anthem length in seconds. Outliers are Neil Diamond between 60 and 70 seconds, and Natalie Cole and Alicia Keys between 150 and 160 seconds. The mean is 108.03 seconds with a standard deviation of 19.17 seconds."}
+![Histogram of song length](images/nahist.png){fig-alt="Histogram of National Anthem length in seconds. Outliers are Neil Diamond between 60 and 70 seconds, and Natalie Cole and Alicia Keys between 150 and 160 seconds. The mean is 108.03 seconds with a standard deviation of 19.17 seconds."}
 :::
 :::::
 
@@ -264,8 +264,6 @@ How would you describe the distribution?
 :::
 
 ::: {.column width="40%"}
-![](Chapter%20P%20Slide%20Images/goat.jpg){width="110%" height="110%" fig-alt="Goat lying down with caption 'Don't worry you goat this.'"}
+![](images/goat.jpg){width="110%" height="110%" fig-alt="Goat lying down with caption 'Don't worry you goat this.'"}
 :::
 :::::
-
-## 
