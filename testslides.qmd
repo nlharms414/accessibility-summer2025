@@ -76,6 +76,7 @@ hist(nums,
 -   :) <br> <br> Except there are issues when you go to print (not all the info shows up)
 
 ## Columns
+
 :::::: center
 ::::: columns
 ::: {.column width="60%"}
@@ -85,11 +86,13 @@ hist(nums,
 
 ::: {.column width="40%"}
 ### Hey
+
 -   Bullet three
 -   Bullet four
 :::
 :::::
 ::::::
+
 <br> This will also make text [transition in!]{.fragment}
 
 ## Latex
@@ -120,9 +123,18 @@ $\widehat{x+y} + 7$ <br> $$\bar{x}$$
 
 ## Callouts
 
-:::{.callout-tip}
-Note that there are five types of callouts, including: 
-`note`, `tip`, `warning`, `caution`, and `important`.
+::: callout-tip
+Note that there are five types of callouts, including: `note`, `tip`, `warning`, `caution`, and `important`.
 :::
+
+## Slide
+
+::::: columns
+::: {.column width="50%"}
+:::
+
+::: {.column width="50%"}
+:::
+:::::
 
 ## The end! Thanks for joining :) {.center}

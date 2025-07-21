@@ -155,3 +155,20 @@ scale_color_colorblind()
 -   Perhaps create a website with finished materials?
     -   Like slide templates
 -   Easy to follow "guidelines" for department use
+
+## Orientation Presentation
+
+Outline: 
+
+-   Intro: what is Title II? Give high level overview of the main standards that need compliance.
+-   What I've been working on
+-   Best practices
+    -   Ways to check accessibility/resources 
+    -   Less is more
+    -   Color schemes
+    -   Closed captioning
+    -   Canvas should now give an overview
+        -   Not 100% reliable but gives a good estimate
+    -   No "checker" is 100% reliable
+    -   Manual keyboard checks are good.
+-   Probably need to include a bunch of examples of things 
