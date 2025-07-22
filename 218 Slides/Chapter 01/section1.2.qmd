@@ -10,3 +10,32 @@ format:
 editor: visual
 ---
 
+## Rock, Paper, Scissors
+
+::::: columns
+::: {.column width="50%"}
+Consider a classic game of Rock, Paper, Scissors
+
+-   Studies suggest scissors are chosen least
+:::
+
+::: {.column width="50%"}
+![](images/rps_2.png){fig-alt="Rock, paper, and scissors clip art."}
+:::
+
+Let's put this to the test!
+
+## Rock, Paper, Scissors (cont.)
+
+In a game of Rock, Paper, Scissors...
+
+-   What are the observational units?
+
+-   What is the variable of interest?
+
+Do we still have a binary outcome?
+
+. . .
+
+-   Yes: *Scissors or not*
+:::::
