@@ -1,0 +1,12 @@
+---
+title: "Section 1.2"
+subtitle: "Measuring the Strength of Evidence"
+format: 
+  revealjs: 
+    chalkboard: true
+    theme: simple
+    link-external-newwindow: true
+    link-external-icon: true
+editor: visual
+---
+
