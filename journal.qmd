@@ -171,4 +171,6 @@ Outline:
         -   Not 100% reliable but gives a good estimate
     -   No "checker" is 100% reliable
     -   Manual keyboard checks are good.
+    -   Links
+    -   For PDFs, Adobe has a built in accessibility checker.
 -   Probably need to include a bunch of examples of things 
