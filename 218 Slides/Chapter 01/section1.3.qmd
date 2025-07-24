@@ -135,7 +135,7 @@ Let's identify the following:
 -   Hypotheses (in symbols):
 
     -   [$H_{0}$: $\pi$ = 0.15]{.fragment}
-    -   [$H_{A}$: $\pi$ = 0.15]{.fragment}
+    -   [$H_{A}$: $\pi$ ≠ 0.15]{.fragment}
 
 ## Heart Transplant Example: P-value
 
