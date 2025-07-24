@@ -112,6 +112,8 @@ In symbols:
 -   $H_{0}$: $\pi$ = (*hypothesized proportion*)
 -   $H_{A}$: $\pi$ \>,\<,≠ (*hypothesized proportion*)
 
+Note that our hypothesized proportion *will not be the same as our observed statistic!*
+
 ## Helper vs. Hinderer: Hypothesis Testing
 
 In words:
@@ -222,7 +224,6 @@ In symbols:
 | .01 \< p-value ≤ .05 |     | Strong evidence against the null hypothesis      |
 | .01 ≤ p-value        |     | Very strong evidence against the null hypothesis |
 
-: {.table .table-striped}
 
 ## Hypothesis Testing and the Null Distribution
 
