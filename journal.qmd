@@ -142,8 +142,7 @@ scale_color_colorblind()
 ## To-do...
 
 -   Create templates for 218
--   Learn up on LaTeX in slides
--   Beamer (pdf/pptx) slide outputs?
+-   Presentation
 
 ## Resources and such
 
