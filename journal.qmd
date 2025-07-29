@@ -157,12 +157,12 @@ scale_color_colorblind()
 
 ## Orientation Presentation
 
-Outline: 
+Outline:
 
 -   Intro: what is Title II? Give high level overview of the main standards that need compliance.
 -   What I've been working on
 -   Best practices
-    -   Ways to check accessibility/resources 
+    -   Ways to check accessibility/resources
     -   Less is more
     -   Color schemes
     -   Closed captioning
@@ -172,4 +172,5 @@ Outline:
     -   Manual keyboard checks are good.
     -   Links
     -   For PDFs, Adobe has a built in accessibility checker.
--   Probably need to include a bunch of examples of things 
+    -   Emojis have built in alt text
+-   Probably need to include a bunch of examples of things
