@@ -21,7 +21,7 @@ Consider a classic game of Rock, Paper, Scissors
 :::
 
 ::: {.column width="50%"}
-![](images/rps_2.png){fig-alt="Rock, paper, and scissors clip art."}
+![](images/2_rps.png){fig-alt="Rock, paper, and scissors clip art."}
 :::
 :::::
 
@@ -193,7 +193,7 @@ In symbols:
 :::
 
 ::: {.column width="40%"}
-<br> ![](images/pmeme_2.png){fig-alt="Meme captioned 'Me trying to understand what all the p's represent in statistics.'"}
+<br> ![](images/2_pmeme.png){fig-alt="Meme captioned 'Me trying to understand what all the p's represent in statistics.'"}
 :::
 :::::
 
@@ -211,19 +211,18 @@ In symbols:
 :::
 
 ::: {.column width="50%"}
-<br> ![](images/normal_2.png){fig-alt="Meme captioned 'Me trying to understand what all the p's represent in statistics.'"}
+<br> ![](images/2_normal.png){fig-alt="Meme captioned 'Me trying to understand what all the p's represent in statistics.'"}
 :::
 :::::
 
 ## P-value Cutoffs
 
 |                      |     |                                                  |
-|----------------------|--------------|------------------------------------|
+|---------------------|-----------------|----------------------------------|
 | P –value \> .10      |     | Not much evidence against the null hypothesis    |
 | .05 \< p-value ≤ .10 |     | Moderate evidence against the null hypothesis    |
 | .01 \< p-value ≤ .05 |     | Strong evidence against the null hypothesis      |
 | .01 ≤ p-value        |     | Very strong evidence against the null hypothesis |
-
 
 ## Hypothesis Testing and the Null Distribution
 
@@ -236,6 +235,7 @@ The Applet generates a null distribution
 [Link to One Proportion Applet]()
 
 ## Hypothesis Testing and the Null Distribution (cont.) {style="font-size: 30px"}
+
 ::::: columns
 ::: {.column width="40%"}
 Rock, paper, scissors simulation example
@@ -243,7 +243,6 @@ Rock, paper, scissors simulation example
 -   Observed statistic ($\hat{p}$): 2/20
 
 -   P-value = 0.02
-
 
 [Based on this p-value, we would [reject the null hypothesis.]{.underline}]{.fragment}
 :::
@@ -258,15 +257,14 @@ Rock, paper, scissors simulation example
 ::::: columns
 ::: {.column width="70%"}
 Remember, we start out assuming our null hypothesis is true.
-
 :::
 
 ::: {.column width="30%"}
-![](images/pedro_2.png){fig-alt="P-value meme."}
+![](images/2_pedro.png){fig-alt="P-value meme."}
 :::
 :::::
 
-## Drawing Conclusions from the P-value  {.center}
+## Drawing Conclusions from the P-value {.center}
 
 If p-value ≤ .05:
 
@@ -275,7 +273,7 @@ If p-value ≤ .05:
 
 ## Drawing Conclusions from the P-value {.center}
 
-If p-value > .05:
+If p-value \> .05:
 
 -   Fail to reject the null hypothesis
 -   Observed statistic could have happened by chance
@@ -288,7 +286,7 @@ If we reject our null hypothesis (p-value ≤ 0.05):
 
 ## Putting it into words {.center}
 
-If we fail to reject our null hypothesis (p-value > 0.05):
+If we fail to reject our null hypothesis (p-value \> 0.05):
 
 -   We do not have enough evidence to conclude (insert alternative hypothesis here).
 

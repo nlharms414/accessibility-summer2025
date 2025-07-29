@@ -49,7 +49,7 @@ The numerical property summarizing the result of the sample
 
 # Population vs. Sample {.center}
 
-![](images/popvssamp_1.png){fig-alt="Large circle labeled 'Population' containing figures and a smaller circle labeled 'Sample' containing a subset of figures from the large circle."}
+![](images/1_popvsamp.png){fig-alt="Large circle labeled 'Population' containing figures and a smaller circle labeled 'Sample' containing a subset of figures from the large circle."}
 
 ##  {.center}
 
@@ -93,7 +93,7 @@ In either case, we are describing a [**parameter**]{.underline}
 
 # Doris and Buzz Example
 
-![](images/dolphin_1.png)
+![](images/1_dolphin.png){fig-alt="Man on the edge of a pool with a dolphin in it."}
 
 ## Doris and Buzz {style="font-size: 35px"}
 
@@ -284,8 +284,8 @@ The more samples the better! Run the simulation 1000 times.
 
 ## Simulation using the Applet
 
-::::: columns
-::: {.column width="40%"}
+:::::: columns
+:::: {.column width="40%"}
 At what point would we be convinced Buzz isn't guessing?
 
 If Buzz correctly guessed...
@@ -295,9 +295,9 @@ If Buzz correctly guessed...
 -   12/16 times?
 -   14/16 times?
 :::
-:::
+::::
 
 ::: {.column width="60%"}
-![](images/applet_1.png){width="110%" height="110%" fig-alt="Dot plot where each dot represents one set of 16 attempts by Buzz. Dots form a mound shape between 3 and 11 that peaks between 7 and 8."}
+![](images/1_applet.png){width="110%" height="110%" fig-alt="Dot plot where each dot represents one set of 16 attempts by Buzz. Dots form a mound shape between 3 and 11 that peaks between 7 and 8."}
 :::
-:::::
+::::::

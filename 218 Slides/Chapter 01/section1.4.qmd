@@ -115,5 +115,3 @@ $$H_{A}: \pi > OR < hypothesized\: value$$
 -   Two-sided test takes the form:
 
 $$H_{A}: \pi ≠ hypothesized\: value$$
-
-
