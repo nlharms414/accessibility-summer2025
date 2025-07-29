@@ -1,0 +1,13 @@
+---
+title: "Section 2.1"
+subtitle: "Generalization: How broadly do the results apply?"
+format: 
+  revealjs: 
+    chalkboard: true
+    theme: simple
+    link-external-newwindow: true
+    link-external-icon: true
+    html-math-method: mathjax
+editor: visual
+---
+
