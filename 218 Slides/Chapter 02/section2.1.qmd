@@ -190,8 +190,7 @@ Note: We only use sample standard deviation and standard deviation symbols ($s$,
 
 ::::: columns
 ::: {.column width="50%"}
-<br>
-<br> 
+<br> <br>
 
 -   Complete the "Sampling Words" exploration
 

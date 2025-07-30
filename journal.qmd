@@ -139,21 +139,22 @@ scale_color_colorblind()
         -   Could also just print html slides to pdf
     -   make note of alt text, show in html coding of the page
 
-## To-do...
+## Last week (7/21-7/25)
 
--   Create templates for 218
--   Presentation
+-   Created slide templates for 218 (Chapter P & Chapter 1)
+
+## This week and next:
+
+-   Continue making 218 slides
+
+-   Accessibility checks
+
+-   Work on orientation week presentation
 
 ## Resources and such
 
 -   [Mine-Cetinkaya](https://mine-cr.com/about/)
 -   [Understanding Techniques for WCAG Success Criteria](https://www.w3.org/TR/2014/NOTE-UNDERSTANDING-WCAG20-20140916/understanding-techniques.html#understanding-techniques)
-
-## Other thoughts...
-
--   Perhaps create a website with finished materials?
-    -   Like slide templates
--   Easy to follow "guidelines" for department use
 
 ## Orientation Presentation
 
@@ -167,10 +168,17 @@ Outline:
     -   Color schemes
     -   Closed captioning
     -   Canvas should now give an overview
-        -   Not 100% reliable but gives a good estimate
+        -   Not 100% reliable but gives a good idea of where your materials are at
     -   No "checker" is 100% reliable
     -   Manual keyboard checks are good.
     -   Links
     -   For PDFs, Adobe has a built in accessibility checker.
     -   Emojis have built in alt text
+    -   If you annotate slides those will need to be made accessible before distribution to students
 -   Probably need to include a bunch of examples of things
+
+## Other thoughts...
+
+-   Perhaps create a website with finished materials?
+    -   Like slide templates
+-   Easy to follow "guidelines" for department use
