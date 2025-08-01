@@ -12,7 +12,9 @@ editor: visual
 
 ##  {.center style="font-size: 72px;"}
 
+:::{.r-stack}
 **What do you think of when you hear the word "statistics"?**
+:::
 
 ## Anecdotal Evidence
 
@@ -40,7 +42,7 @@ The video describes the study that was done to test this theory, using "helper" 
 
 # P.1: Introduction to the Six-Step Method
 
-## The Six-Step Method Overview
+## The Six-Step Method Overview {.center}
 
 1.  Ask a research question
 2.  Design a study and collect data
@@ -49,7 +51,7 @@ The video describes the study that was done to test this theory, using "helper" 
 5.  Formulate conclusions
 6.  Look back and ahead
 
-## 1. Ask a research question
+## 1. Ask a research question {.center}
 
 -   What do you want to know or investigate?
 -   It does not have to be super specific
@@ -60,7 +62,7 @@ Helper vs. Hinderer example:
 
     -   We're REALLY investigating nature vs. nurture
 
-## 2. Design a study and collect data
+## 2. Design a study and collect data {.center}
 
 -   How will you test for your question?
 -   What kind of data should be collected?
@@ -71,7 +73,7 @@ Helper vs. Hinderer example:
 -   Show each baby the puppet show
 -   Record which toy the baby chooses
 
-## 3. Explore the data
+## 3. Explore the data {.center}
 
 -   **Visually:** Create boxplots, histograms, other graphs/charts
 -   **Numerically:** Compute a number
@@ -82,7 +84,7 @@ Helper vs. Hinderer example:
 
     -   Proportionally: 14/16 = 0.875
 
-## 4. Draw inferences beyond the data
+## 4. Draw inferences beyond the data {.center}
 
 -   What might our results imply?
 -   Did our data result from chance alone?
@@ -96,7 +98,7 @@ Helper vs. Hinderer example:
 
     -   Perhaps the puppet show had an influence.
 
-## 5. Formulate conclusions
+## 5. Formulate conclusions {.center}
 
 -   Strong evidence = form a conclusion
 -   Weak evidence = data was inconclusive
@@ -107,7 +109,7 @@ Helper vs. Hinderer example
 -   Conclusion: Babies preferred the helper toy over the hinderer toy, when shown the puppet show.
 -   Can we say this about all babies?
 
-## 6. Look back and ahead
+## 6. Look back and ahead {.center}
 
 -   What was good about the experiment?
 -   What could be improved?
@@ -117,7 +119,7 @@ Helper vs. Hinderer example:
 
 -   Recruit more babies
 
-## Four Pillars of Statistical Evidence
+## Four Pillars of Statistical Evidence {.center}
 
 1.  **Significance:** How strong is the evidence of an effect?
 2.  **Estimation:** What is the size of the effect?
@@ -245,14 +247,14 @@ How would you describe the distribution?
 
 # P.3: Exploring Random Processes
 
-## In the long run...
+## In the long run... {.center} 
 
 -   Beneficial to run many experiments
 -   Simulations come in handy
 -   Can observe long term patterns or "behavior"
 -   Interest in long-run (long term) probability of an outcome
 
-## Cars vs. Goats Exploration {style="font-size: 35px"}
+## Cars vs. Goats Exploration {.center style="font-size: 35px"}
 
 ::::: columns
 ::: {.column width="60%"}

@@ -485,14 +485,181 @@
 <li><p>Median: <strong>9.5</strong></p></li>
 </ul>
 </section></section>
+<section>
 <section id="type-i-and-type-ii-errors" class="title-slide slide level1 center">
 <h1>Type I and Type II Errors</h1>
+
+</section>
+<section id="time-for-a-detour" class="slide level2 center">
+<h2>Time for a detour…</h2>
+<p>Recall our hypotheses</p>
+<ul>
+<li><p><span class="math inline">\(H_{0}\)</span>: What’s expected to happen; chance explanation</p></li>
+<li><p><span class="math inline">\(H_{A}\)</span>: Wait, something different happened!</p></li>
+</ul>
+</section>
+<section id="time-for-a-detour-1" class="slide level2 center">
+<h2>Time for a detour…</h2>
+<p>We want strength of evidence in favor of <span class="math inline">\(H_{A}\)</span></p>
+<ul>
+<li><p>So far, we have two methods to obtain strength of evidence:</p>
+<ul>
+<li><p><u><strong>Standardized statistic</strong></u></p></li>
+<li><p><u><strong>P-value</strong></u></p></li>
+</ul></li>
+</ul>
+<p>But, what happens if these methods are wrong?</p>
+</section>
+<section id="time-for-a-detour-2" class="slide level2 center">
+<h2>Time for a detour…</h2>
+<ul>
+<li><p>P-value:</p>
+<ul>
+<li>Derived using simulation or theory</li>
+<li>Based on the null model (random chance), so it could be wrong</li>
+</ul></li>
+<li><p>Standardized statistic:</p>
+<ul>
+<li>Calculated using hypothesized null value</li>
+<li>Again, based on null model and could be wrong</li>
+</ul></li>
+</ul>
+<div class="fragment">
+<p>Goes back to the idea of random chance!</p>
+</div>
+</section>
+<section id="buzz-and-doris" class="slide level2 center">
+<h2>Buzz and Doris</h2>
+<p>Recall the Buzz and Doris example. (Investigating if dolphins can communicate.) <br><br> Hypotheses:</p>
+<ul>
+<li><p><strong>Null:</strong> Buzz is just guessing (50% chance of guessing correctly)</p></li>
+<li><p><strong>Alt:</strong> Buzz is communicating with Doris (Greater than 50% chance of guessing correctly.)</p></li>
+</ul>
+</section>
+<section id="buzz-and-doris-1" class="slide level2 center">
+<h2>Buzz and Doris</h2>
+<p>In this context, what does it mean if…</p>
+<ul>
+<li><p>We reject the null hypothesis</p></li>
+<li><p>We fail to reject the null hypothesis</p></li>
+</ul>
+</section>
+<section id="type-i-error" class="slide level2 center">
+<h2>Type I Error</h2>
+<ul>
+<li>We reject the null hypothesis, but it is actually true</li>
+<li>“False alarm”</li>
+<li>In the Buzz and Doris example:
+<ul>
+<li>We conclude that Buzz is communicating with Doris, but he is guessing</li>
+</ul></li>
+</ul>
+</section>
+<section id="type-ii-error" class="slide level2 center">
+<h2>Type II Error</h2>
+<ul>
+<li>We fail to reject the null hypothesis, but it is actually false</li>
+<li>“Missed opportunity”</li>
+<li>In the Buzz and Doris example:
+<ul>
+<li>We conclude that Buzz is just guessing, but really, he is communicating with Doris</li>
+</ul></li>
+</ul>
+</section>
+<section id="the-boy-who-cried-wolf" class="slide level2 center">
+<h2>The Boy Who Cried Wolf</h2>
+<p>Let’s look at an example using the classic fairy tale: <br><br> Null: There is no wolf</p>
+<p>Alt: There is a wolf</p>
+</section>
+<section id="the-boy-who-cried-wolf-1" class="slide level2 center">
+<h2>The Boy Who Cried Wolf</h2>
+<ul>
+<li><p>Rejecting the null means there is a wolf, the boy cries wolf and the villagers believe there is a wolf</p></li>
+<li><p>Failing to reject the null means there is no wolf, the boy does not cry wolf and the villagers believe there is no wolf</p></li>
+</ul>
+</section>
+<section id="the-boy-who-cried-wolf-2" class="slide level2 center">
+<h2>The Boy Who Cried Wolf</h2>
+<ul>
+<li><p><strong>Type I Error:</strong> The boy cries wolf and the villagers believe him, but there is no wolf.</p></li>
+<li><p><strong>Type II Error:</strong> The boy does not cry wolf and the villagers believe him, but there’s actually a wolf.</p></li>
+</ul>
+<aside class="notes">
+<p>Draw a punnett square here</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="implications-of-errors" class="slide level2 center">
+<h2>Implications of Errors</h2>
+<p>What does it mean when we make an error?</p>
+<ul>
+<li><p>If a Type I Error is made:</p>
+<ul>
+<li>We’re claiming we have a significant result, when we don’t</li>
+</ul></li>
+<li><p>If a Type II Error is made:</p>
+<ul>
+<li>We have missed a potentially important result</li>
+</ul></li>
+</ul>
+</section>
+<section id="which-type-of-error-is-worse" class="slide level2 center">
+<h2>Which type of error is worse?</h2>
+<p>Well, it depends!</p>
+<ul>
+<li><p>Context is everything</p></li>
+<li><p>Depending on the scenario, one error might be worse to have than the other</p></li>
+<li><p>Sometimes neither error is the “end of the world”</p></li>
+</ul>
+</section></section>
+<section>
+<section id="heart-transplant-example-revisited" class="title-slide slide level1 center">
+<h1>Heart Transplant Example (Revisited)</h1>
+
+</section>
+<section id="heart-transplant-example" class="slide level2 center">
+<h2>Heart Transplant Example</h2>
+<ul>
+<li><p>80% of 10 transplants resulted in deaths within 30 days of the transplant</p></li>
+<li><p>Historical data suggests a 15% mortality rate</p></li>
+</ul>
+</section>
+<section id="heart-transplant-example-1" class="slide level2 center">
+<h2>Heart Transplant Example</h2>
+<ul>
+<li><p>Null: The long run proportion of patients at St.&nbsp;George who die after receiving a heart transplant is greater than 15%</p></li>
+<li><p>Alt: The long run proportion of patients at St.&nbsp;George who die after receiving a heart transplant is greater than 15%</p></li>
+</ul>
+<div class="fragment">
+<p>What does it mean to reject the null?</p>
+</div>
+<div class="fragment">
+<p>What does it mean to fail to reject the null?</p>
+</div>
+</section>
+<section id="heart-transplant-example-2" class="slide level2">
+<h2>Heart Transplant Example</h2>
+<div>
+<ul>
+<li class="fragment"><p>What is the consequence of a Type I Error?</p></li>
+<li class="fragment"><p>What is the consequence of a Type II Error?</p></li>
+</ul>
+</div>
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
 </div>
 </div>
-</section>
+</section></section>
     </div>
   </div>
 

@@ -121,8 +121,7 @@ Unusual data points
 
 ## Mean and Median Example {.center}
 
-<br>
-Suppose we observe the following data:
+<br> Suppose we observe the following data:
 
 |     |     |     |     |     |     |     |     |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -146,7 +145,132 @@ Recall our hypotheses
 
 ## Time for a detour... {.center}
 
-We want strength of evidence in favor of the alternative
+We want strength of evidence in favor of $H_{A}$
 
--   
+-   So far, we have two methods to obtain strength of evidence:
 
+    -   [**Standardized statistic**]{.underline}
+
+    -   [**P-value**]{.underline}
+
+But, what happens if these methods are wrong?
+
+## Time for a detour... {.center}
+
+-   P-value:
+
+    -   Derived using simulation or theory
+    -   Based on the null model (random chance), so it could be wrong
+
+-   Standardized statistic:
+
+    -   Calculated using hypothesized null value
+    -   Again, based on null model and could be wrong
+
+. . .
+
+Goes back to the idea of random chance!
+
+## Buzz and Doris {.center}
+
+Recall the Buzz and Doris example. (Investigating if dolphins can communicate.) <br><br> Hypotheses:
+
+-   **Null:** Buzz is just guessing (50% chance of guessing correctly)
+
+-   **Alt:** Buzz is communicating with Doris (Greater than 50% chance of guessing correctly.)
+
+## Buzz and Doris {.center}
+
+In this context, what does it mean if...
+
+-   We reject the null hypothesis
+
+-   We fail to reject the null hypothesis
+
+## Type I Error {.center}
+
+-   We reject the null hypothesis, but it is actually true
+-   "False alarm"
+-   In the Buzz and Doris example:
+    -   We conclude that Buzz is communicating with Doris, but he is guessing
+
+## Type II Error {.center}
+
+-   We fail to reject the null hypothesis, but it is actually false
+-   "Missed opportunity"
+-   In the Buzz and Doris example:
+    -   We conclude that Buzz is just guessing, but really, he is communicating with Doris
+
+## The Boy Who Cried Wolf {.center}
+
+Let's look at an example using the classic fairy tale: <br><br> Null: There is no wolf
+
+Alt: There is a wolf
+
+## The Boy Who Cried Wolf {.center}
+
+-   Rejecting the null means there is a wolf, the boy cries wolf and the villagers believe there is a wolf
+
+-   Failing to reject the null means there is no wolf, the boy does not cry wolf and the villagers believe there is no wolf
+
+## The Boy Who Cried Wolf {.center}
+
+-   **Type I Error:** The boy cries wolf and the villagers believe him, but there is no wolf.
+
+-   **Type II Error:** The boy does not cry wolf and the villagers believe him, but there's actually a wolf.
+
+::: notes
+Draw a punnett square here
+:::
+
+## Implications of Errors {.center}
+
+What does it mean when we make an error?
+
+-   If a Type I Error is made:
+
+    -   We're claiming we have a significant result, when we don't
+
+-   If a Type II Error is made:
+
+    -   We have missed a potentially important result
+
+## Which type of error is worse? {.center}
+
+Well, it depends!
+
+-   Context is everything
+
+-   Depending on the scenario, one error might be worse to have than the other
+
+-   Sometimes neither error is the "end of the world"
+
+# Heart Transplant Example (Revisited)
+
+## Heart Transplant Example {.center}
+
+-   80% of 10 transplants resulted in deaths within 30 days of the transplant
+
+-   Historical data suggests a 15% mortality rate             
+
+## Heart Transplant Example {.center}
+
+-   Null: The long run proportion of patients at St. George who die after receiving a heart transplant is greater than 15%
+
+-   Alt: The long run proportion of patients at St. George who die after receiving a heart transplant is greater than 15%
+
+. . .
+
+What does it mean to reject the null?
+
+. . . 
+
+What does it mean to fail to reject the null?
+
+## Heart Transplant Example
+
+::: incremental
+-   What is the consequence of a Type I Error?
+
+-   What is the consequence of a Type II Error?
+:::
