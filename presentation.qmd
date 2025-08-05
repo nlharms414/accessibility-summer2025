@@ -1,0 +1,186 @@
+---
+title: "Accessibility Rules!"
+subtitle: "Orientation Week 2025"
+author: "Nicole Harms"
+format: 
+  revealjs: 
+    chalkboard: true
+    theme: simple
+    link-external-newwindow: true
+    link-external-icon: true
+    html-math-method: mathjax
+    logo: logo.jpg
+editor: visual
+---
+
+# Introduction
+
+## Title II {.center}
+
+-   Refers to Title II of the Americans with Disabilities Act (ADA)
+
+-   Applies to public entities like schools, colleges, and local and state governments
+
+-   Prohibits the discrimination of a disabled individual by above public entities
+
+-   Requires all individuals be able to benefit from and access their services
+
+## Title II Examples {.center}
+
+-   Accessible buildings
+
+-   Online materials are accessible
+
+-   Allowing service animals
+
+## Web Content Accessibility Guidelines (WCAG) {.center}
+
+-   Department of Justice (DOJ) published a new rule in April 2024
+
+-   Outlined accessibility regulations
+
+-   Web content must meet WCAG Version 2.1, Level AA standards
+
+# What I've Been Doing...
+
+-   Researching and learning about the guidelines
+
+-   Finding best practices
+
+-   Breaking it down into digestible pieces
+
+-   Creating content for the department
+
+# Best Practices
+
+## How does this apply to you? {.center}
+
+Your content should be made accessible if:
+
+::: incremental
+-   You are distributing it to students
+
+    -   Slides
+    -   PDFs
+    -   Lecture videos
+
+-   It is a website for your class
+
+-   It will be distributed on our department website for public use
+:::
+
+## Materials you do not need to check {.center}
+
+-   Content provided by a book publisher
+
+    -   Slides
+    -   PDFs
+    -   Lecture videos
+    
+-   Presumed accessible if they're distributed by a publisher
+
+## Slide Accessibility {.center}
+
+-   Less is more!
+
+-   Main components to check:
+
+    -   Alternative text
+    -   Links
+    -   Color contrast
+    -   Overall formatting
+
+## Slide Accessibility {.center}
+
+-   In general, HTML based slides are best
+
+    -   Quarto/Revealjs
+    
+-   Powerpoint is alright
+
+    -   Allows you to add alternative text 
+
+## Slide Accessibility {.center}
+
+Annotating
+
+-   Annotations made in class are unfortunately not accessible
+
+-   Alt-text should be added only if slides are to be distributed
+
+    -   You can still do annotations in class!
+    
+## PDF Accessibility {.center}
+
+-   Trickier to do
+
+-   Adobe is currently the only option
+
+-   Has automatic accessibility checker
+
+-   Can add alt-text
+
+## In general... {.center}
+
+-   Make materials accessible within reason
+
+-   "Big items" to check
+
+    ::: incremental
+    -   Alternative text
+    -   Keyboard checks
+    -   Color contrast
+    :::
+
+## Other areas to pay attention to {.center}
+
+-   Links
+
+    -   Make sure links are descriptive
+
+-   Avoid slang or abbreviations that may be difficult to understand
+
+-   Not skipping header levels (HTML)
+
+## Other areas to pay attention to {.center}
+
+-   Font size/spacing
+
+-   Emojis are OK, but:
+
+    -   Ensure you're using emojis, not emoticons
+        -   Emoji: 😁
+        -   Emoticon: :)
+    -   Use sparingly
+
+# Resources
+
+## Canvas
+
+-   Canvas should now automatically check material accessibility
+
+    -   Works for uploaded files
+
+    -   Not insanely reliant, but gives a good estimate
+
+-   YuJa 
+
+    -   For lecture recordings, automtatically provides closed captioning
+
+## Automatic Website Checkers {.center}
+
+-   IBM Accessibility Checker extension
+
+    -   False positive rate is high
+    -   But, gives a good idea of areas that could be improved
+    
+-   WAVE Web Accessibility Evaluation Tool
+
+    -   Checks websites for accessibility
+    
+## Links
+
+-   Repo link
+-   IBM accessibility checker
+-   Color contrast checker
+-   
