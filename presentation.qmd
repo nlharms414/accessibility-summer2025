@@ -15,13 +15,36 @@ editor: visual
 
 # Introduction
 
+## What I've Been Doing...
+
+-   Researching and learning about accessibility
+
+-   Finding best practices
+
+-   Breaking it down into digestible pieces
+
+-   Creating content for the department
+
+# Accessibility: High Level Overview
+
 ## Title II {.center}
 
 -   Refers to Title II of the Americans with Disabilities Act (ADA)
 
--   Applies to public entities like schools, colleges, and local and state governments
+-   Applies to public entities such as:
 
--   Prohibits the discrimination of a disabled individual by above public entities
+    -   Schools
+    -   Colleges
+    -   State and local governments
+    -   Healthcare providers
+
+-   Don't have to receive funding to fall under the scope of Title II
+
+## Title II {.center}
+
+Serves two main purposes:
+
+-   Prohibits the discrimination of a disabled individual by previously described public entities
 
 -   Requires all individuals be able to benefit from and access their services
 
@@ -33,23 +56,89 @@ editor: visual
 
 -   Allowing service animals
 
+-   "Accessible" = anyone can access
+
+::: notes
+Accessible is easy to think about when it comes to something like a building. Not as easy to conceptualize when it comes to documents or online materials.
+:::
+
 ## Web Content Accessibility Guidelines (WCAG) {.center}
 
--   Department of Justice (DOJ) published a new rule in April 2024
+-   Department of Justice (DOJ) published a new rule in April 2024 outlining accessibility regulations
 
--   Outlined accessibility regulations
+-   WCAG are developed by World Wide Web Consortium (W3C)
 
 -   Web content must meet WCAG Version 2.1, Level AA standards
 
-# What I've Been Doing...
+    -   Levels range from A to AAA
+    -   AAA is highest accessibility
 
--   Researching and learning about the guidelines
+## WCAG Overview
 
--   Finding best practices
+Each guideline falls into one of four categories of the **POUR** acronym:
 
--   Breaking it down into digestible pieces
+-   [**P**]{.underline}erceivable
 
--   Creating content for the department
+-   [**O**]{.underline}perable
+
+-   [**U**]{.underline}nderstandable
+
+-   [**R**]{.underline}obust
+
+The POUR acronym is commonly used to recall guidelines.
+
+-   A full list of guidelines can be found here: [WCAG Quick Reference](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.1)
+
+## Perceivable {.center}
+
+"Information and user interface components must be presentable to users in ways they can perceive."
+
+-   Alternative (alt) text
+
+-   Closed captioning
+
+-   Color contrast/schemes
+
+-   Text size and spacing
+
+-   Display orientation
+
+
+## Operable {.center}
+
+"User interface components and navigation must be operable."
+
+-   Keyboard navigation
+
+-   Keyboard focus is visible
+
+-   Ability to adjust timed content
+
+-   Content is in readable order (focus order)
+
+## Understandable {.center}
+
+"Information and the operation of the user interface must be understandable."
+
+-   No unusual language (slang) is used
+
+-   Abbreviations are explained
+
+-   Webpage navigation is consistent and predictable
+
+-   Input fields provide assistance and error assistance
+
+## Robust {.center}
+
+"Content must be robust enough that it can be interpreted by a wide variety of user agents, including assistive technologies."
+
+-   Elements of a page or document are correctly tagged and labeled
+
+-   Nesting according to specifications
+
+. . . 
+
+Anything HTML or XML is considered to have met this criteria!
 
 # Best Practices
 
@@ -76,7 +165,7 @@ Your content should be made accessible if:
     -   Slides
     -   PDFs
     -   Lecture videos
-    
+
 -   Presumed accessible if they're distributed by a publisher
 
 ## Slide Accessibility {.center}
@@ -95,10 +184,14 @@ Your content should be made accessible if:
 -   In general, HTML based slides are best
 
     -   Quarto/Revealjs
-    
--   Powerpoint is alright
 
-    -   Allows you to add alternative text 
+-   Powerpoint
+
+    -   Has built-in accessibility checker
+
+-   Printing slides to a PDF is generally the least accessible
+
+    -   Requires extra steps to make accessible
 
 ## Slide Accessibility {.center}
 
@@ -106,21 +199,41 @@ Annotating
 
 -   Annotations made in class are unfortunately not accessible
 
--   Alt-text should be added only if slides are to be distributed
+-   Alt text should be added only if slides are to be distributed
 
     -   You can still do annotations in class!
-    
+
 ## PDF Accessibility {.center}
 
 -   Trickier to do
 
--   Adobe is currently the only option
+-   Adobe is essentially the only option
 
 -   Has automatic accessibility checker
 
--   Can add alt-text
+-   Can add alt text, document structure tags, etc.
 
-## In general... {.center}
+-   Accessibility of a PDF largely depends on how its source document was structured
+
+-   [PDF Accessibility](https://www.adobe.com/acrobat/hub/what-is-an-accessible-pdf.html)
+
+## Graphic Accessibility {.center}
+
+-   Not always possible to make graphics fully accessible
+
+-   Alt text
+
+    -   Useful, but often difficult to fully explain a graphic
+
+    -   Packages like `BrailleR` generate alt text
+
+-   `svg`-based web graphics are a good alternative
+
+    -   Ex: `d3`, `Observable.js`, `Highcharts.js`
+
+-   Accessibility [training](https://srvanderplas.github.io/workshop-graphics-communication/content/03-accessibility.html#fig-olli-penguin) by Dr. VanderPlas
+
+## To summarize... {.center}
 
 -   Make materials accessible within reason
 
@@ -140,7 +253,9 @@ Annotating
 
 -   Avoid slang or abbreviations that may be difficult to understand
 
--   Not skipping header levels (HTML)
+-   Overall document structure
+
+    -   Headings, layout, etc.
 
 ## Other areas to pay attention to {.center}
 
@@ -163,7 +278,7 @@ Annotating
 
     -   Not insanely reliant, but gives a good estimate
 
--   YuJa 
+-   YuJa
 
     -   For lecture recordings, automtatically provides closed captioning
 
@@ -173,14 +288,18 @@ Annotating
 
     -   False positive rate is high
     -   But, gives a good idea of areas that could be improved
-    
+
 -   WAVE Web Accessibility Evaluation Tool
 
     -   Checks websites for accessibility
-    
-## Links
+
+## Other Useful Resources
 
 -   Repo link
 -   IBM accessibility checker
 -   Color contrast checker
 -   
+
+## References
+
+https://www.ada.gov/resources/2024-03-08-web-rule/
